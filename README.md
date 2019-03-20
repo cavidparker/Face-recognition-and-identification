@@ -4,4 +4,5 @@
 -First need to get built-in haarcascade classifier.
 -There is a pillow library which is the python image library to import the train images 
 -The images convert into Numpy array 
+Than the person images folder needs to be Label as it is are going to declare the specific person  
 
